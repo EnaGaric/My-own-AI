@@ -1,3 +1,0 @@
-1 : banana
-2 : breskva
-3 : ananas

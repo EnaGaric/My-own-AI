@@ -1,5 +1,0 @@
-1 : ananas
-2 : banana
-3 : breskva
-4 : jabuka
-5 : kruska
